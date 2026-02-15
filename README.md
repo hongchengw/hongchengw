@@ -1,5 +1,5 @@
 ## <p align="center">👋 Hey, Im Hong Cheng</p>
-First year undergraduate student studying Computer Science at NYU.
+<p align="center">First year undergraduate student studying Computer Science at NYU.</p>
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-cheng-wang/) 
