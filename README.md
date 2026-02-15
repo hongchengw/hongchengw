@@ -1,6 +1,4 @@
 ## Hey, Im Hong Cheng 👋
-Im a first year undergraduate student, studying Computer Science at New York University.<br><br>This profile is where i'll document my projects. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-cheng-wang/) 
