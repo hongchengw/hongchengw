@@ -4,6 +4,8 @@
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
+I was forced by Hong Cheng Wang to learn Typescript for the sake of John Typescript being able to Typescript, and also Gleam cause who doesn't love a cute cuddly pink starfish.
+
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
 
