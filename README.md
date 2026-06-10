@@ -10,9 +10,6 @@ I was forced by John ChudScript & John TypeScript to learn *the* **TYPESCRIPT**.
   <p>
     "Go Deep."
   </p>
-  <cite>
-    - Hong Cheng Wang
-  </cite>
 </blockquote>
 
 ## socials
