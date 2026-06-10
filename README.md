@@ -4,7 +4,7 @@
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
-I was forced by John ChudScript & John TypeScript to learn *the* **TYPESCRIPT**.
+I was forced by John ChudScript & John TypeScript to learn TypeScript. I'm coming for that pink starfish.
 
 <blockquote>
   <p>
