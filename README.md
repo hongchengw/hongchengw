@@ -6,6 +6,15 @@
 
 I was forced by John ChudScript & John TypeScript to learn *the* **TYPESCRIPT**.
 
+<blockquote>
+  <p>
+    "Go Deep."
+  </p>
+  <cite>
+    - Hong Cheng Wang
+  </cite>
+</blockquote>
+
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
 
