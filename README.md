@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxbVWcdhsmqg/profile-displaybackgroundimage-shrink_200_800/B4EZ4Jsj5CIMAU-/0/1778279153730?e=1781136000&v=beta&t=0hVEX6efZZxeKzI5laMStSjmHLyFRR9OItp6nVI4Vwk" alt="Master Head" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxbVWcdhsmqg/profile-displaybackgroundimage-shrink_200_800/B4EZ4Jsj5CIMAU-/0/1778279153730?e=1782950400&v=beta&t=ZwgDlLtQltUr6yc1SaHt6_QDZsrXgk7vos-nfd090Ew" alt="Master Head" />
 </p>
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
