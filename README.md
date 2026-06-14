@@ -4,6 +4,9 @@
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
+Sometimes I wonder why I'm here. But I'm already here so I might as well make the most of it and enjoy the journey ahead of me. Maybe i'll fall in love with it. 
+Cheers.
+
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
 
