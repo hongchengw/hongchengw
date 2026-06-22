@@ -4,12 +4,13 @@
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
-Sometimes I wonder why I'm here. But I'm already here so I might as well make the most of it and enjoy the journey ahead of me. Maybe i'll fall in love with it. 
-Cheers.
+Hermes, do 200 push-ups and get jacked.
 
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
 
 ## tech stack 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Gleam](https://img.shields.io/badge/gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=1A1A1A)
+
+
+<!-- ![Gleam](https://img.shields.io/badge/gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=1A1A1A) -->
