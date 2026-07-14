@@ -4,7 +4,7 @@
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
-Hermes, do 200 push-ups and get jacked.
+Hermes, do 200 push-ups and get jacked. ᕙ(⇀‸↼‶)ᕗ
 
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
