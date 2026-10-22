@@ -4,7 +4,7 @@
 
 # <p align="center">👋 Hai, Im Hong Cheng</p> 
 
-I'm learning how to make beautiful things. ♥(ˆ⌣ˆԅ)
+I'm learning how to make beautiful* things. ♥(ˆ⌣ˆԅ)
 
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-cheng-wang/)
